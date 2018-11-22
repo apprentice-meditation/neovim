@@ -414,7 +414,7 @@ nmap <Leader>C :ClangFormatAutoToggle<CR>
 " Remember info about open buffers on close                                                                                                                                                               
 set viminfo^=%
 
-set viminfo+=n/home/dusan/.viminfo
+set viminfo+=n/home/local/dusan/viminfo/.viminfo
 
 " Make sure Vim returns to the same line when you reopen a file.                                                                                                                                          
 " Thanks, Amit                                                                                                                                                                                            
